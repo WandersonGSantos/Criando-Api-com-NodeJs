@@ -5310,9 +5310,9 @@ tslib@^2.8.1:
   integrity sha512-oJFu94HQb+KVduSUQL7wnpmqnfmLsOA/nAh6b6EH0wCEoK0/mPeXU6c3wKDV83MkOuHPRHtSXKKU99IBazS/2w==
 
 tsyringe@^4.7.0:
-  version "4.8.0"
-  resolved "https://registry.yarnpkg.com/tsyringe/-/tsyringe-4.8.0.tgz#d599651b36793ba872870fee4f845bd484a5cac1"
-  integrity sha512-YB1FG+axdxADa3ncEtRnQCFq/M0lALGLxSZeVNbTU8NqhOVc51nnv2CISTcvc1kyv6EGPtXVr0v6lWeDxiijOA==
+  version "4.9.1"
+  resolved "https://registry.yarnpkg.com/tsyringe/-/tsyringe-4.9.1.tgz#ca8fb10477106ee23e03c45885a6282d6bce1a23"
+  integrity sha512-dJCWk0RolAnGk0j839M0lcuS/PtNUPaMsnBosn+wg5N16xy0tofcVuvsidMs0JuRbaJ0wVIT7RsuHWbVIZ5Rcg==
   dependencies:
     tslib "^1.9.3"
 
