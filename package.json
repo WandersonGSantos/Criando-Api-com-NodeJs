@@ -22,7 +22,7 @@
   "dependencies": {
     "@types/multer": "^1.4.7",
     "bcrypt": "^5.0.1",
-    "csv-parse": "^5.1.0",
+    "csv-parse": "^6.0.0",
     "dayjs": "^1.11.3",
     "express": "^5.0.0",
     "express-async-errors": "^3.1.1",
