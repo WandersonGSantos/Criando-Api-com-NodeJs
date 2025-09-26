@@ -21,7 +21,7 @@
   },
   "dependencies": {
     "@types/multer": "^2.0.0",
-    "bcrypt": "^5.0.1",
+    "bcrypt": "^6.0.0",
     "csv-parse": "^6.0.0",
     "dayjs": "^1.11.3",
     "express": "^5.0.0",
@@ -37,7 +37,7 @@
     "uuid": "^11.0.0"
   },
   "devDependencies": {
-    "@types/bcrypt": "^5.0.0",
+    "@types/bcrypt": "^6.0.0",
     "@types/express": "^5.0.0",
     "@types/jest": "^30.0.0",
     "@types/jsonwebtoken": "^9.0.0",
