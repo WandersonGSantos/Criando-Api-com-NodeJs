@@ -3079,9 +3079,9 @@ get-symbol-description@^1.1.0:
     get-intrinsic "^1.2.6"
 
 git-commit-msg-linter@^5.0.0:
-  version "5.0.9"
-  resolved "https://registry.yarnpkg.com/git-commit-msg-linter/-/git-commit-msg-linter-5.0.9.tgz#eee457a943c5cbec425e0198699c67b7068dc90e"
-  integrity sha512-UCUqPK1z7pWsFZVlk8JJ0yUKslEQwrh+Us06M2Fm2boAKJmg7uT642ArF6eKfp+Xhgs72X9iNS3DR5P7US5/rA==
+  version "5.0.10"
+  resolved "https://registry.yarnpkg.com/git-commit-msg-linter/-/git-commit-msg-linter-5.0.10.tgz#f3820cc52af4b349e7de589b4e1d8be13e6dd934"
+  integrity sha512-hxvF2uilzrInloHbK5m95o8KVzppewnQSkt8eCHyg2bk5N+9bXBlAZIwV0CewO6qFQP0Ly4LKLPf4VsTUSYmNA==
   dependencies:
     chalk "^2.4.2"
     commit-msg-linter "^1.0.0"
