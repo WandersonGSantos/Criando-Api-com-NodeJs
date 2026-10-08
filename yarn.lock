@@ -1549,9 +1549,9 @@ ansi-regex@^5.0.1:
   integrity sha512-quJQXlTSUGL2LH9SUXo8VwsY4soanhgo6LNSm84E1LBcE8s3O0wpdiRzyR9z/ZZJMlMWv37qOOb9pdJlMUEKFQ==
 
 ansi-regex@^6.2.2:
-  version "6.3.0"
-  resolved "https://registry.yarnpkg.com/ansi-regex/-/ansi-regex-6.3.0.tgz#247c8e7b70a1a43b10ce14c0226fcbf58e8815d5"
-  integrity sha512-WpDfL7NO6j7tH88IDBNVdUJxDh9nmCteAVW9dsep846XdwF4naCBK+/tGLX3KJgcpgMRXCFlTM2hKGoK9FsdrQ==
+  version "6.4.0"
+  resolved "https://registry.yarnpkg.com/ansi-regex/-/ansi-regex-6.4.0.tgz#69093d6436d30dbb9b04fe7bdcbcfe16c697d8a1"
+  integrity sha512-KzTVk2tCWAHtYrvvvaP8bJKJq2pVinhLcGEQdtLIYPbmNGNyYe8QwNaTUYQp2J7/vIsUKt5QCqAfUkYyG9DkOw==
 
 ansi-styles@^3.2.1:
   version "3.2.1"
@@ -1578,9 +1578,9 @@ ansi-styles@^6.1.0, ansi-styles@^6.2.1:
   integrity sha512-4Dj6M28JB+oAH8kFkTLUo+a2jwOFkuqb3yucU0CANcRRUbxS0cP0nZYCGjcc3BNXwRIsUVmDGgzawme7zvJHvg==
 
 ansis@^4.3.1:
-  version "4.3.1"
-  resolved "https://registry.yarnpkg.com/ansis/-/ansis-4.3.1.tgz#2815c1ef490adaf0d612ae3a699e90cbcf70a917"
-  integrity sha512-BJ8/l4R5LRE7hW9WdSuGYrLSHi2ynxeFpDFbH0K/CgNeY/tyhk+vO6TYxXC5r5CpUhNVX310xzPsN/H9lCdfOA==
+  version "4.4.0"
+  resolved "https://registry.yarnpkg.com/ansis/-/ansis-4.4.0.tgz#da57640507ba67c95fcf1e7409c5b636b184aa35"
+  integrity sha512-9k3v7xcHwgdO/DruxGIg4HtjvlAZlcnsX/mzqUb1t3NkYnl9kK2UJ+Gq0io+vQf7iT//BD/HB/NBkUR1LWxoeA==
 
 anymatch@^3.1.3, anymatch@~3.1.2:
   version "3.1.3"
@@ -2171,7 +2171,7 @@ data-view-byte-offset@^1.0.1:
     es-errors "^1.3.0"
     is-data-view "^1.0.1"
 
-dayjs@^1.11.21, dayjs@^1.11.3:
+dayjs@^1.11.23, dayjs@^1.11.3:
   version "1.11.23"
   resolved "https://registry.yarnpkg.com/dayjs/-/dayjs-1.11.23.tgz#b0a363506dde5f36cf5075e42ebe8115165a8c79"
   integrity sha512-QDTCU0M0MxR3hQfnlDJfwekQiaanm1ubOD231u73WBckQ/fsamwRLiE2GBz6D3a/xF1NgfiDLJjXBa1hYOYTtQ==
@@ -3000,9 +3000,9 @@ get-caller-file@^2.0.5:
   integrity sha512-DyFP3BM/3YHTQOCUL/w0OZHR0lpKeGrxotcHWcqNEdnltqFwXVfhEBQ94eIo34AfQpo0rGki4cyIiftY06h2Fg==
 
 get-east-asian-width@^1.0.0, get-east-asian-width@^1.5.0:
-  version "1.6.0"
-  resolved "https://registry.yarnpkg.com/get-east-asian-width/-/get-east-asian-width-1.6.0.tgz#216900f91df11a8b2c198c3e1d93d6c035a776b9"
-  integrity sha512-QRbvDIbx6YklUe6RxeTeleMR0yv3cYH6PsPZHcnVn7xv7zO1BHN8r0XETu8n6Ye3Q+ahtSarc3WgtNWmehIBfA==
+  version "1.7.0"
+  resolved "https://registry.yarnpkg.com/get-east-asian-width/-/get-east-asian-width-1.7.0.tgz#7ee99f0bd5ab7c622002deeabba232923726d1d4"
+  integrity sha512-XjH1AECxf0giL2V1aU8vKyRR2ppRUb5c0EvT7zuJTokQ74bNo52zOtghqdWIqrhUD79fo3x0WfKZdOqxF6LG1Q==
 
 get-intrinsic@^1.1.1, get-intrinsic@^1.2.0:
   version "1.2.4"
@@ -5248,9 +5248,9 @@ string-width@^7.0.0, string-width@^7.2.0:
     strip-ansi "^7.1.0"
 
 string-width@^8.2.1:
-  version "8.2.2"
-  resolved "https://registry.yarnpkg.com/string-width/-/string-width-8.2.2.tgz#7310516493df575742fe98af6fae87d85d5ed0ac"
-  integrity sha512-GaPUh5gfdrYzqeVNZvUfT23vYYxXzKYidUcnMtJg/3rxRV63EFZy3k6xfKlmfeJD0176lnUV/Usr3XcwSvFzpg==
+  version "8.3.0"
+  resolved "https://registry.yarnpkg.com/string-width/-/string-width-8.3.0.tgz#f1e85ca6d276ed9226c979c3651fb7abf548fbbe"
+  integrity sha512-ZbmZM0JCihQN91dWnxoipT2KOEyHqEyfRXUyjuRhW8b/xnqPDoq4gWEVApTVa9db2wN8mmoikgFBbjh71+cGeQ==
   dependencies:
     get-east-asian-width "^1.5.0"
     strip-ansi "^7.1.2"
@@ -5693,20 +5693,20 @@ typed-array-length@^1.0.7:
     reflect.getprototypeof "^1.0.6"
 
 typeorm@^1.0.0:
-  version "1.1.1"
-  resolved "https://registry.yarnpkg.com/typeorm/-/typeorm-1.1.1.tgz#cab734c4a10d1bd3843a0128db9b053ea266b2c0"
-  integrity sha512-og9mG4Lwlvj6MfvYd8yRCzXy73gETtwgTKQ/ISLYvEOpJPy4IrjU/89HK4ZAFmRIbEg1hkIk04v8phTrxfgPmQ==
+  version "1.1.2"
+  resolved "https://registry.yarnpkg.com/typeorm/-/typeorm-1.1.2.tgz#107d731705dbedb846c77c2f14849375c02c218a"
+  integrity sha512-UDQ8++2oFCK4fETiRKEC0eCES/i+/1SB4NBqXWeJNosI1i2SVFCDPhqIsXHWpFzFHTBOA553upQZj0NKVbNdUQ==
   dependencies:
     "@sqltools/formatter" "^1.2.5"
     ansis "^4.3.1"
-    dayjs "^1.11.21"
+    dayjs "^1.11.23"
     debug "^4.4.3"
     dedent "^1.7.2"
     reflect-metadata "^0.2.2"
     sql-highlight "^6.1.0"
     tinyglobby "^0.2.17"
     tslib "^2.8.1"
-    yargs "^18.0.0"
+    yargs "^18.1.0"
 
 typescript@7.0.2:
   version "7.0.2"
@@ -6009,10 +6009,10 @@ yargs@^17.7.2:
     y18n "^5.0.5"
     yargs-parser "^21.1.1"
 
-yargs@^18.0.0:
-  version "18.1.0"
-  resolved "https://registry.yarnpkg.com/yargs/-/yargs-18.1.0.tgz#cd7e98c703ef51695bbbf062ed58f28e94291b56"
-  integrity sha512-2rAgRKu54VsHkqI0/tYkmluGXHD4KW7yZoycuqDQ15QOTnc2VVfy0nN/1eMhnQLO00A+dwtK20xuCnc1YGeUyg==
+yargs@^18.1.0:
+  version "18.2.0"
+  resolved "https://registry.yarnpkg.com/yargs/-/yargs-18.2.0.tgz#c258276baa935fe8fb911d986067f6d0733e8608"
+  integrity sha512-9OpKOLeaoNFecEp7P6iYbzze/5CqWoH7N3SMs/6y1XF4nMvFMspEGZzJ6uFi9MmQwXhyzqYoSEKO3tvA3Z/o2w==
   dependencies:
     cliui "^9.0.1"
     escalade "^3.1.1"
